@@ -1,0 +1,5 @@
+<RunSettings>
+        <Catch2Adapter>
+            <FilenameFilter>^Catch2_</FilenameFilter>
+        </Catch2Adapter>
+</RunSettings>
